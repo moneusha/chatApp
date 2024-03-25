@@ -1,0 +1,11 @@
+.button {
+  background-color: green;
+  padding: 5px;
+  color:white;
+  border-radius: 5px;
+}
+
+.input-box {
+  display: flex;
+  margin-bottom: 10px;
+}
